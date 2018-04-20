@@ -2,56 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd8fe124-aedc-4a29-926e-ddbfa94fd624" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/my-react-app.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/sonarlint/issuestore/1/e/1e43fa63aecd2127be034b3fb9d4caa172275714" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/sonarlint/issuestore/4/2/42e89cd2213b9d5dfae4f63522702c623170d792" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/sonarlint/issuestore/6/5/651db44f3a5bba8c28dccae90356370ea07c0150" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/sonarlint/issuestore/6/d/6d3a8cd532ece5b4ddbd4b3b6a678ba686d300bc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/sonarlint/issuestore/7/0/7030d0b2f71b999ff89a343de08c414af32fc93a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/sonarlint/issuestore/9/1/9169ee6b1a4d7d8edc55c09275d732abbbeaf1d9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/sonarlint/issuestore/9/2/923703ced91ac38943d37930d9d27a7ebe8f01ad" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/sonarlint/issuestore/a/a/aa7165aefcf8ee3d73539e99ab007daf1aa18d8d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/sonarlint/issuestore/c/5/c5d38a62d1faae90a2acaa34b79a7ef365c917e4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/sonarlint/issuestore/f/9/f900edc44cb929c2267a16100a32851f6d5b477d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/sonarlint/issuestore/index.pb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my-react-app/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/react-projects.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/0/2/0222b232a8eb306515e575aa91898174f8f143c6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/0/3/0340ff80600e1b25c94a220be5bd025a8197b4fd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/0/6/06107b5149327b07ed977d2f7bd9e7c2e7100ebd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/0/e/0ee23d6d622bf0bf67e560d60d13582bf83390c2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/2/2/224b58e88c9ab46752cda0b12f4d62aaf7fd213e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/2/6/2657a3ce41db21379f2992d3687632fdf3e25456" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/3/a/3a8127c9cdbfba7f8a3d5d9163ed103b60208530" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/4/a/4a549ce651f986dcf44c1a3d9c6422f76b2cc4b2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/5/f/5f82ca4f448f9583a5bd211423f940936b89b7fa" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/6/7/67444cd9911519c7b50026faefc05f404a1965ee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/6/7/67779f0323b704b847c0893c82370b5f38857d6a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/6/b/6bb993efab277aed7525c1b8aaba2759f814cf39" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/6/c/6c3ccf1963c03527d42a860606e214f4001e3b16" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/6/c/6ca0655282cbde657a037942f7daab862fe2e197" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/7/0/7000f634484f45691701cf63513025b641a521ef" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/7/3/73cd68ab91b811c04cf7f2825389f5cf94906eb8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/7/4/748ebf91dede8fbb4f5a253eae349f145ccd55c1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/7/b/7b7fef57f991783db7ab90114ee87152797e6fc4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/8/3/8398f3a95a59bfc7d0827de0319ee5fe00f51b8c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/8/9/89cd0775c99f94c851685d21db2391e420ef6b7c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/8/d/8d71efc229a26f13cbf91ed08064a7ad48e03bc0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/9/2/929f63bbfa690a499aeb03f7da79f5bf53e0ca80" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/d/5/d5e395d674de4a23f1d861cffe1d7a8630a3a0ba" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/f/e/fe80670325cf4dd92952d086ed58e07e5ed929f8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/sonarlint/issuestore/index.pb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/react-projects/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -90,6 +41,12 @@
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -143,6 +100,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../vueLearn" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -243,16 +203,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524201773608</updated>
-      <workItem from="1524201774992" duration="241000" />
+      <workItem from="1524201774992" duration="430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241000" />
+    <option name="totallyTimeSpent" value="430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="428" y="0" width="1481" height="969" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
