@@ -1,17 +1,16 @@
-console.log('Hello World!');
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
+import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
+import { Layout, Button } from 'antd';
 
-
-const  aaa = 'asasd';
-
+const { Header, Footer, Sider, Content } = Layout;
 var left = {
     fontSize: 100,
     color: '#FF0000',
-    background:"#4df56e",
+    background:"#4df56e", 
     width:'100%',
     height:"200px",
-    'font-size':'14px',
+    fontSize:'14px',
 };
 var right = {
     fontSize: 100,
@@ -19,7 +18,7 @@ var right = {
     background:"#f5e63e",
     width:'100%',
     height:"200px",
-    'font-size':'14px',
+    fontSize:'14px',
 };
 
 function FormattedDate(props) {
@@ -27,7 +26,15 @@ function FormattedDate(props) {
 }
 
 function Div2(props) {
-    return <h2 onClick={props.clickAdd.bind(this, 666)}>内容:{props.date}</h2>;
+    return <h2 onClick={props.clickAdd.bind(this, 666)}>
+        <div>
+    <Button type="primary">Primary</Button>
+    <Button>Default</Button>
+    <Button type="dashed">Dashed</Button>
+    <Button type="link">Link</Button>
+  </div>
+        内容:{props.date}
+        </h2>;
 }
 
 
